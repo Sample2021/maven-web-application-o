@@ -1,4 +1,4 @@
-package com.mt;
+package com.prodapt;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
@@ -10,7 +10,7 @@ import org.mockito.MockitoAnnotations;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
-import com.mt.HelloWorldController;
+import com.prodapt.HelloWorldController;
 
 public class TestController {
 
